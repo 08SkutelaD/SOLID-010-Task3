@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "kcNAbi6wY6xpBLDuskEO+7pdZqwyIk5F6c572pSUSYDlJk9km86RxhOi9uge9ClNnPS11At0jywMG/GMB4gO0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danie\\OneDrive\\Documents\\GitHub\\OOP2020\\Assignments\\SOLID-010-Task3\\SOLID Library System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danie\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Danie\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Danie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Danie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Danie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

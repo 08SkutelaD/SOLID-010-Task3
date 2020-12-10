@@ -1,0 +1,28 @@
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\SOLID Library System\bin\Debug\netcoreapp3.0\SOLID Library System.exe
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\SOLID Library System\bin\Debug\netcoreapp3.0\SOLID Library System.deps.json
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\SOLID Library System\bin\Debug\netcoreapp3.0\SOLID Library System.runtimeconfig.json
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\SOLID Library System\bin\Debug\netcoreapp3.0\SOLID Library System.runtimeconfig.dev.json
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\SOLID Library System\bin\Debug\netcoreapp3.0\SOLID Library System.dll
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\SOLID Library System\bin\Debug\netcoreapp3.0\SOLID Library System.pdb
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\SOLID Library System\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\SOLID Library System\obj\Debug\netcoreapp3.0\SOLID Library System.csprojAssemblyReference.cache
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\SOLID Library System\obj\Debug\netcoreapp3.0\SOLID Library System.AssemblyInfoInputs.cache
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\SOLID Library System\obj\Debug\netcoreapp3.0\SOLID Library System.AssemblyInfo.cs
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\SOLID Library System\obj\Debug\netcoreapp3.0\SOLID Library System.csproj.CopyComplete
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\SOLID Library System\obj\Debug\netcoreapp3.0\SOLID Library System.dll
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\SOLID Library System\obj\Debug\netcoreapp3.0\SOLID Library System.pdb
+C:\Users\Danie\OneDrive\Documents\GitHub\OOP2020\Assignments\SOLID-010-Task3\bin\Debug\netcoreapp3.0\SOLID Library System.exe
+C:\Users\Danie\OneDrive\Documents\GitHub\OOP2020\Assignments\SOLID-010-Task3\bin\Debug\netcoreapp3.0\SOLID Library System.deps.json
+C:\Users\Danie\OneDrive\Documents\GitHub\OOP2020\Assignments\SOLID-010-Task3\bin\Debug\netcoreapp3.0\SOLID Library System.runtimeconfig.json
+C:\Users\Danie\OneDrive\Documents\GitHub\OOP2020\Assignments\SOLID-010-Task3\bin\Debug\netcoreapp3.0\SOLID Library System.runtimeconfig.dev.json
+C:\Users\Danie\OneDrive\Documents\GitHub\OOP2020\Assignments\SOLID-010-Task3\bin\Debug\netcoreapp3.0\SOLID Library System.dll
+C:\Users\Danie\OneDrive\Documents\GitHub\OOP2020\Assignments\SOLID-010-Task3\bin\Debug\netcoreapp3.0\SOLID Library System.pdb
+C:\Users\Danie\OneDrive\Documents\GitHub\OOP2020\Assignments\SOLID-010-Task3\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Danie\OneDrive\Documents\GitHub\OOP2020\Assignments\SOLID-010-Task3\obj\Debug\netcoreapp3.0\SOLID Library System.csprojAssemblyReference.cache
+C:\Users\Danie\OneDrive\Documents\GitHub\OOP2020\Assignments\SOLID-010-Task3\obj\Debug\netcoreapp3.0\SOLID Library System.csproj.CoreCompileInputs.cache
+C:\Users\Danie\OneDrive\Documents\GitHub\OOP2020\Assignments\SOLID-010-Task3\obj\Debug\netcoreapp3.0\SOLID Library System.AssemblyInfoInputs.cache
+C:\Users\Danie\OneDrive\Documents\GitHub\OOP2020\Assignments\SOLID-010-Task3\obj\Debug\netcoreapp3.0\SOLID Library System.AssemblyInfo.cs
+C:\Users\Danie\OneDrive\Documents\GitHub\OOP2020\Assignments\SOLID-010-Task3\obj\Debug\netcoreapp3.0\SOLID Library System.csproj.CopyComplete
+C:\Users\Danie\OneDrive\Documents\GitHub\OOP2020\Assignments\SOLID-010-Task3\obj\Debug\netcoreapp3.0\SOLID Library System.dll
+C:\Users\Danie\OneDrive\Documents\GitHub\OOP2020\Assignments\SOLID-010-Task3\obj\Debug\netcoreapp3.0\SOLID Library System.pdb
+C:\Users\Danie\OneDrive\Documents\GitHub\OOP2020\Assignments\SOLID-010-Task3\obj\Debug\netcoreapp3.0\SOLID Library System.genruntimeconfig.cache
